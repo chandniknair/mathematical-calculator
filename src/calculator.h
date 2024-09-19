@@ -5,5 +5,8 @@ class Calculator {
 public:
     int add(int a, int b);
 };
+
+int sub(int a, int b);
+};
  
 #endif // CALCULATOR_H
