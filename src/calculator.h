@@ -9,4 +9,7 @@ public:
 int sub(int a, int b);
 };
  
+
+int multiply(int a, int b);
+};
 #endif // CALCULATOR_H
